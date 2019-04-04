@@ -1,0 +1,36 @@
+div{
+  float: left;
+  text-align:center;
+  color:white;
+}
+#one{
+  height: 70px;
+ 
+  background-color:black;
+  width:100%;
+  line-height:70px;
+}
+#two{
+  height: 400px;
+  width:20%;
+  background-color:green;
+  line-height:400px;
+}
+#three{
+  height: 400px;
+  width:60%;
+  background-color:blue;
+  line-height:400px;
+}
+#four{
+  height: 400px;
+  width:20%;
+  background-color: red;
+  line-height:400px;
+}
+#five{
+  background-color:black;
+  height: 70px;
+  width:100%;
+  line-height:70px;
+}
