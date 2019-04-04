@@ -1,0 +1,27 @@
+body, main{
+  height:100%;
+  width:100%;
+  color:white;
+}
+div{
+  flex-direction: column;
+  flex: auto;
+}
+#one{
+  background-color:#000;
+  
+}
+#two{
+  background-color:#aef;
+  color:black;
+}
+#three{
+  background-color:#de1;
+  color:black;
+}
+#four{
+  background-color:#b92;
+}
+#five{
+  background-color:#000;
+}
